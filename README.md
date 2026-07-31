@@ -1,4 +1,3 @@
-IMPORTANT: i messed up the game link the link is this: https://www.roblox.com/games/140236883647470/HiddenDevs-Application
 
 # this is module script in serverscript storage
 
